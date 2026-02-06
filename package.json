@@ -1,23 +1,23 @@
 {
-	"name": "web-design-blog",
+	"name": "legenddoro",
 	"version": "9.0.0",
 	"description": "A starter repository for a blog web site using the Eleventy site generator.",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
-		"build-ghpages": "npx @11ty/eleventy --pathprefix=/web-design-blog-starter/",
+		"build-ghpages": "npx @11ty/eleventy --pathprefix=/web-design-blog-legend/",
 		"start": "npx @11ty/eleventy --serve --quiet",
-		"start-ghpages": "npx @11ty/eleventy --pathprefix=/web-design-blog-starter/ --serve --quiet"
+		"start-ghpages": "npx @11ty/eleventy --pathprefix=/web-design-blog-legend/ --serve --quiet"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:samheckle/web-design-blog-starter.git"
+		"url": "git@github.com:legenddoros/web-design-blog-legend.git"
 	},
 	"author": {
-		"name": "Sam Heckle",
-		"email": "samantha.heckle@hunter.cuny.edu",
-		"url": "https://samheckle.github.io/web-design-blog-starter"
+		"name": "Scott Lackey",
+		"email": "lackey.scott@gmail.com",
+		"url": "https://legenddoro.github.io/web-design-blog-legend"
 	},
 	"license": "MIT",
 	"engines": {

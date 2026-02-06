@@ -8,7 +8,7 @@ date: 2026-02-04
 
 # this is a heading with one `#`
 
-if you hate markdown, you can just write plain text and that is totally fine this is just a text file!
+New Blog Stuff
 
 simply press enter and wow new paragraph!
 
