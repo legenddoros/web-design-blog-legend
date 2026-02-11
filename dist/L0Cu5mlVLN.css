@@ -1,6 +1,11 @@
+@font-face {
+  font-family: 'Special Elite';
+  src: url('/fonts/Special_Elite/SpecialElite-Regular.ttf');
+}
+
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: 'Special Elite', -apple-system, system-ui, sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -51,13 +56,25 @@ body {
 	margin: 0 auto;
 	font-family: var(--font-family);
 	color: var(--text-color);
-	background-color: var(--background-color);
 }
 html {
 	overflow-y: scroll;
 }
+
 body {
-	max-width: 40em;
+    background-color: #fff;
+    background-image: url('/images/stainpaper.jpg');
+    background-size: auto 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+main {
+	color: #000;
+	display: flex;
+	justify-content: center;
+	width: 50%;
+	margin-left: 25%;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
@@ -104,20 +121,16 @@ li {
 }
 
 a[href] {
-	color: var(--text-color-link);
+	color: #000;
 }
 a[href]:visited {
-	color: var(--text-color-link-visited);
+	color: #000;
 }
 a[href]:hover,
 a[href]:active {
-	color: var(--text-color-link-active);
+	color: #000;
 }
 
-main,
-footer {
-	padding: 1rem;
-}
 main :first-child {
 	margin-top: 0;
 }
@@ -199,6 +212,7 @@ header {
 	justify-content: space-between;
 	align-items: center;
 	padding: 1em;
+	font-size: 1.5rem;
 }
 .home-link {
 	flex-grow: 1;
@@ -252,7 +266,6 @@ header {
 .postlist-date,
 .postlist-item:before {
 	font-size: 0.8125em; /* 13px /16 */
-	color: var(--color-gray-90);
 }
 .postlist-date {
 	word-spacing: -0.5px;
@@ -295,21 +308,48 @@ header {
 .post-metadata time {
 	margin-right: 1em;
 }
-/* Message Box */
-.message-box {
-	--color-message-box: #ffc;
+/*
+ * New diff- syntax
+ */
 
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0,0,0,.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
 	display: block;
-	background-color: var(--color-message-box);
-	color: var(--color-gray-90);
-	padding: 1em 0.625em; /* 16px 10px /16 */
-}
-.message-box ol {
-	margin-top: 0;
-}
-
-@media (prefers-color-scheme: dark) {
-	.message-box {
-		--color-message-box: #082840;
-	}
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
 }
