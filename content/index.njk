@@ -4,17 +4,14 @@ const eleventyNavigation = {
 	order: 1
 };
 
-const numberOfLatestPostsToShow = 3;
 ---
+<h1>SCOTT'S BLOG</h1>
 {% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h2>Latest {{ postsCount }} Post{% if postsCount != 1 %}s{% endif %}</h2>
 
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslist = collections.posts | head(-1 * postsCount) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
-
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
 
 {# List every content page in the project #}
 {#
