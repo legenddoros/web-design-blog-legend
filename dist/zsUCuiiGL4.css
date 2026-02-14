@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Special Elite';
-  src: url('/fonts/Special_Elite/SpecialElite-Regular.ttf');
+  src: url('https://raw.githubusercontent.com/legenddoros/assets/main/web-design-blog-legend/fonts/Special_Elite/SpecialElite-Regular.ttf');
 }
 
 /* Defaults */
@@ -63,7 +63,7 @@ html {
 
 body {
     background-color: #fff;
-    background-image: url('/images/stainpaper.jpg');
+    background-image: url('https://raw.githubusercontent.com/legenddoros/assets/main/web-design-blog-legend/images/stainpaper.jpg');
     background-size: auto 100%;
     background-position: center center;
     background-repeat: no-repeat;
