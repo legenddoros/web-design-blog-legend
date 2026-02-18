@@ -2,6 +2,7 @@
 title: Readings 1
 description: responses to Readings
 date: 2026-02-14
+permalink: "/readingsone/"
 ---
 
 <!-- this is 11ty syntax above this comment -->
