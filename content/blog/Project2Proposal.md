@@ -34,4 +34,4 @@ Sasha Stiles had a wonderful computer generated art piece on a wall sized monito
 ### links to team blogs proposal
 
 [Gabby](https://example.com)
-[Kris](https://example.com)
+[Kris](https://krisswan253.github.io/web-design-blog/projects/project-2/)
