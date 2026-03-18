@@ -11,6 +11,7 @@ permalink: "/readingsthree/"
 # Readings Respons 3 `#`
 
 <img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/portals.jpg">
+<small>This image was created soley with prompts using AI</small>
 
 ## Response
 
@@ -37,6 +38,7 @@ I found an interesting interview with Eric at an AI conference in Singapore last
 # The Medium is the Message 1964
 
 <img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/animeline.jpg">
+<small>This image was created soley with prompts using AI</small>
 
 ## ChatGPT is a Blurry JPEG of the Web - Ted Chiang, 2023
 
@@ -51,5 +53,6 @@ Judging the rooms and thinking of them as similiar caused the digital image to s
 I've used AI to critique my writing, and similiarly when asked for best lines or what to edit, after several repeat queries the same line will sometimes eventually be attributed as both “best” and “needed to edit or problematic “.
 
 <img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/resistbw.jpg">
+<small>This drawing was colorized and altered with prompts using AI</small>
 
 Using AI for image creation I have had better results, although not perfect. But I did a series of images for a xerox art collage that was incredibly successful where I created an illustration just by prompts. I also tried feeding a drawing into AI and getting i5 to add color and details, with some success. This always takes repeat attempts.
