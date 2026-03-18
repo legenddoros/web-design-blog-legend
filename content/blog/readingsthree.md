@@ -11,7 +11,7 @@ permalink: "/readingsthree/"
 # Readings Respons 3 `#`
 
 <img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/portals.jpg">
-<small>This image was created soley with prompts using AI</small>
+<small>This image was created soley with prompts using AI.  All of the images on this page were.</small>
 
 ## Response
 
@@ -31,11 +31,13 @@ I also like this concept of edgelessness in the creation of websites, the dynami
 
  <img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/burningup.jpg">
 
-## Automation and Cobenience as a Trojan horse
+## Automation and Convenience as a Trojan horse
 
 I found an interesting interview with Eric at an AI conference in Singapore last year, 2025. Some dangerous elements of AI in the future. Machines encourage averages. This is not something we want to promote. There will be no recourse. No phone number for Google even now. He imagined more and more people are going to be screaming at macines.
 
 # The Medium is the Message 1964
+
+This book is on the list to reread.
 
 <img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/animeline.jpg">
 <small>This image was created soley with prompts using AI</small>
@@ -52,7 +54,13 @@ Judging the rooms and thinking of them as similiar caused the digital image to s
 
 I've used AI to critique my writing, and similiarly when asked for best lines or what to edit, after several repeat queries the same line will sometimes eventually be attributed as both “best” and “needed to edit or problematic “.
 
-<img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/resistbw.jpg">
+<img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/resistbw.JPG">
 <small>This drawing was colorized and altered with prompts using AI</small>
 
 Using AI for image creation I have had better results, although not perfect. But I did a series of images for a xerox art collage that was incredibly successful where I created an illustration just by prompts. I also tried feeding a drawing into AI and getting i5 to add color and details, with some success. This always takes repeat attempts.
+
+# Heavily LIes the Digital Cloud, Manges, Oct 2025
+
+The idea of weather data being monetized, reaches into many facets of our lives. Monetization creates this structure of surveliance, monitoring etc. The digital footprint. The thought to manage this to have our approval sounds keen.
+
+Thinking back, I didnt have internet on my phone until 2009 or so. My first iphone. I was 41 years old. In 2004 I went to Italy for a month with no phone, just a book. I cruised all over the country with amazing memories, navigating trains in Italian, just showing up and getting a hotel. Those were the days.
