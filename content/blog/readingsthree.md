@@ -2,7 +2,6 @@
 title: Readings 3
 description: responses to Readings
 date: 2026-03-17
-permalink: "/readingsthree/"
 ---
 
 <!-- this is 11ty syntax above this comment -->

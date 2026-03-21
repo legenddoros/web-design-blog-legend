@@ -2,7 +2,6 @@
 title: "Readings 2"
 description: "Responses to Readings"
 date: 2026-03-03
-permalink: "/readingstwo/"
 ---
 
 # Readings Response 2
