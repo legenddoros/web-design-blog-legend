@@ -1,7 +1,7 @@
 ---
 title: Readings 4
 description: responses to Readings
-date: 2026-03-17
+date: 2026-04-14
 ---
 
 <!-- this is 11ty syntax above this comment -->
@@ -73,6 +73,6 @@ Creating fantasy worlds because we cant change the real world
 
 I like the idea of figuring out ways to change the internet or to harness it away from corporations and consumerist mind control.
 Moderators.
-Invisible moderators of the big 5
+git Invisible moderators of the big 5
 
 The creation of a digital public square is still in progress , this is our hope, laws to protect voices including busting monopolies for social media
