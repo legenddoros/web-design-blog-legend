@@ -39,7 +39,7 @@ an interactive graphics page where you can add images to define utopian visions 
 
 Roles :
 
-## Shading and Daniel - front end
+## Shasuna and Daniel - front end
 
 ## Werner and Scott - back end
 
