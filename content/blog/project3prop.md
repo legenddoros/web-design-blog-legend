@@ -38,5 +38,11 @@ an interactive graphics page where you can add images to define utopian visions 
 ## Team Roles
 
 Roles :
-Shading and Daniel - front end
-Werner and Scott - back end
+
+## Shading and Daniel - front end
+
+## Werner and Scott - back end
+
+# Figma link
+
+<img src="https://raw.githubusercontent.com/legenddoros/assets/main/web-design-blog-legend/images/trashpage.png" alt="figma"
