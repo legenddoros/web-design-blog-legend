@@ -45,4 +45,4 @@ Roles :
 
 # Figma link
 
-<img src="https://raw.githubusercontent.com/legenddoros/assets/main/web-design-blog-legend/images/trashpage.png" alt="figma"
+<img src="https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Untitled?t=Pty30ucKuYN0UVFr-1" alt="figma>
