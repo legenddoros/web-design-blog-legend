@@ -45,4 +45,4 @@ Roles :
 
 # Figma link
 
-<img src="https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Untitled?t=Pty30ucKuYN0UVFr-1" alt="figma>
+[View my Figma design](https://www.figma.com/design/RylgUb43PS4ibS0j85oNb8/Untitled?t=Pty30ucKuYN0UVFr-1)
