@@ -7,40 +7,46 @@ date: 2026-04-26
 <!-- this is 11ty syntax above this comment -->
 <!-- it always goes at the very top of each .md file -->
 
-# Readings Respons Numero 5git `#`
+# Readings Respons Numero 5 `#`
 
 <img src="https://raw.githubusercontent.com/legenddoros/assets/refs/heads/main/web-design-blog-legend/images/portals.jpg">
 <small>This image was created soley with prompts using AI.  All of the images on this page were.</small>
 
-## Another Network is Possible
+# Reading Responses
 
-# World Trade Organization Ministerial Conference 1999
+# The Internet Has Borders - Anna Rose Kerr, 2025
 
-# Birth of indymedia.org
+This title makes me just think of the political availability or unavailability of global network access world wide that we discussed in one of our earlier readings. About how certain countries dont have mass access to the internet.
 
-As the media becomes more centralized, information becomes controlled. This actually has a negative compound effect of self censorship. People obey social norms more and more. It's surprising there aren't more known and popular Indy media outlets today.. You could argue USAs media is more controlling than China’s. We think we are more free but perhaps we are just more placated. The illusion of freedom, or limited freedom creates conformity and satisfaction.
+The writer complains about SquareSpace and Cargo. I am proud that I do not have to use those things. I feel like thy are costly and limiting. The liberation of self hosting also includes this feeling of free speech, even though no one might ever see it.
 
-# Tech monopolies and control, shortlist
+## Dream
 
-Google: Founded September 4, 1998, grew into the dominant global search engine shaping how information is accessed online.
-United States v. Google LLC: Filed October 20, 2020, as U.S. regulators challenged Google’s monopoly power in search and advertising markets.
-Amazon: Founded July 5, 1994, it expanded from online retail into a dominant force in cloud computing and global e-commerce.
-Apple: Launched the App Store July 10, 2008, giving Apple control over which apps can be distributed on its mobile devices.
-Mastodon: Released October 5, 2016, as a decentralized alternative designed to reduce reliance on centralized tech platforms.
+As a matter of fact, interesting story about my interst in the tech field. Part of this comes with the want to be nomadic, in a practical sense, considering all of the global tumult. My goal is to work remote, and have a remote art practice online. But what kind of gave birth to all of this was a dream I had. In my dream it was in the future. I was in a modern apartment with huge windwos overlooking clouds and drones. I understood that our culture was turning into a video game of sorts, teams against teams and spies within spies. It was such a fascinating dream that it was the beginning of my tech journey.
 
-## Techno-libertarianism
+To be nomadic and off grid feeels safe. To be able to travel at a momemts notice just like my grandfathers left everything in Germany in 1899 and Czech republic in the 1920s. Im happy to have their genetic codes, their bravery and ingeniuty, to carrry forth through the future.
 
-In “Declaration of the Independence of Cyberspace.”
-wrote by Grateful Dead lyricist,
-“Cyberspace does not lie within your borders,”
+In terms of internet as a corporation, to resist algorithmic optimisation, the point when we are not allowed to post freely will be a closed door. Even now though, we practice a sort of self censorship everyday.
 
-25 years later this feels very romantic. And I wonder why more groups have not utilized the internet to spread information and form a large counter resistance. I think the reason is consumerism, our busy working lives, the seduction of entertainment, and food that keeps us so preoccupied. We are trained by commercials that tell us what utopia is. We in fact parrot these commercials on our own social media feeds.
+# I Know a Place - Everest Pipkin, 2021
 
-“Protecting individual rights of self-expression took precedence over protecting marginalized communities — who, in practice, don’t always get to enjoy the same rights.
+Growing up in Texas, I was spoiled to grow up on over an acre of land for my back yard, and to have "woods" to play that were acres and acres. To have a place of respite. But I craved action and to live beyond the "comfort bubble" that my Baby Boomer parents so instintctly curate. As I see the world getting more complex, I dont blame my father for being such a hermit, recluse.
 
-This is also an interesting topic. The internet is also a soapbox for fascism, serial killers and other groups. This reminds me of a conversation I had with my father where I explained that fascists believe that the masses aren't capable of governing themselves. A few months later he fired back, “Do you really think the general public can govern themselves!” Shocking.
+Being nomadic is its own type of "off gridness". BTW my parents hoiuse in the middle of nowhere in 1978 that cost $65,000, is now surrounded by million dollar homes, and worth over x10 its original cost.
 
-The internet can strengthen any force. I was 16 in 1984, and we read the Orwell book in a dystopia class. I had no idea how spot on it would become. Scary.
-It’s the monopolies these companies have that need to be broken. The article states “social movements depend on Facebook, Google, and Twitter.” Now.
+This idea of creating a cozy independent digital space IS aluring and real.
 
-## A short history of social media:
+BTW if you ever do go to Texas, I highly recommend the Frio River which runs for 250 miles and has no celll phone reception. The water is spreing fed (in the upper section), clear, and limestone cliffs surround you. Special place.
+
+I look forward to checking out this Roblox and giving a go at some kind of video game art piece mash up. Digital pages as a type of poetry.
+
+## being online is to watch history accumulate in real time
+
+This kind living in infinite time stamps is exhausting and anxiety provoking perhaps. In a sense we are "too connected" .. but to what. This machine of time stamps, documentation, self promotion etc.
+
+Regarding Roblex going public. I got into the MIDI program Ableton Live and was very happy when they turned down an offer. I paid $450 for the student package and for now, i have it for life.  
+That was cool they didnt sell. They wanted to keep it available.
+
+# Alive Internet Theory - Spencer Chang, 2025
+
+# individualism in the dead-internet age video playthrough
