@@ -1,7 +1,7 @@
 ---
-title: Project 3 Proposal
-description: Project 3 Proposal
-date: 2026-04-23
+title: Project 3 Prototype
+description: Project 3 Protohype
+date: 2026-05-05
 ---
 
 <!-- this is 11ty syntax above this comment -->
