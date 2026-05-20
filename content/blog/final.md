@@ -12,6 +12,12 @@ date: 2026-05-20
 <img src="https://raw.githubusercontent.com/legenddoros/assets/main/web-design-blog-legend/images/Utopialogo.png" alt="Utopia Logo">
 <small>Homepage Logo</small>
 
+## links
+
+[GitHub Repo](https://github.com/legenddoros/utopia-project-3)
+[Live Site](http://157.245.213.253:3000/)
+[Blog](https://shasunal.github.io/shasunagarden/)
+
 ## Utopia Message Board
 
 We had alot of fun putting this together! We have created a message board where you can create imges using a draw feature, provided text from a database and provided images. You are also able to upload imges. Text tiles are generated from a data set, the canvas was created with fabric.js and persistene real time creation is used with socket.
