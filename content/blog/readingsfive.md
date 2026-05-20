@@ -49,4 +49,6 @@ That was cool they didnt sell. They wanted to keep it available.
 
 # Alive Internet Theory - Spencer Chang, 2025
 
+I guess its our responsibilty to keep internet open. 
+
 # individualism in the dead-internet age video playthrough
